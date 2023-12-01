@@ -241,7 +241,7 @@ packages:
     source: hosted
     version: "2.1.4"
   wormhole_button:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       path: ".."
       relative: true
